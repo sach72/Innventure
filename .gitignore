@@ -1,0 +1,19 @@
+# Node
+node_modules
+.next
+
+# Java
+target/
+*.class
+
+# IDE
+.idea/
+.vscode/
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
